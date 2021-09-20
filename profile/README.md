@@ -9,4 +9,5 @@ The program is designed both for early-career practitioners who aspire to transi
 | Name | GitHub Username | Title | Time Zone | Avatar |
 |---|---|---|---|---|
 | Andrea Griffiths | [@andreagriffiths11](https://github.com/andreagriffiths11) | Senior Product Manager | Eastern (-5) | ![](https://avatars.githubusercontent.com/andreagriffiths11?s=64) |
+| Melodie He | [@MelodieYuxiuHe](https://github.com/MelodieYuxiuHe) | Data Analyst | Eastern (-5) | ![](https://avatars.githubusercontent.com/MelodieYuxiuHe?s=64) |
 
