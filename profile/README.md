@@ -1,4 +1,4 @@
-## Work Organization for Team 10 DS4A (Fall Co-hort)
+## Work Organization for Team 10 DS4A (Fall 21 cohort)
 
 ### What is DS4A
 Data Science for All / Women is a unique fellowship program that helps female students and professionals develop into data-driven leaders of tomorrow.
