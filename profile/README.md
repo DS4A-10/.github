@@ -12,3 +12,5 @@ The program is designed both for early-career practitioners who aspire to transi
 | Melodie He | [@MelodieYuxiuHe](https://github.com/MelodieYuxiuHe) | Data Analyst | Eastern (-5) | ![](https://avatars.githubusercontent.com/MelodieYuxiuHe?s=64) |
 | Alejandra Gomez | [@magomezh](https://github.com/magomezh) | Data Analyst | Eastern (-5) | ![](https://avatars.githubusercontent.com/u/54110634?s=64) |
 | Marcela Huerfano | [@anmarphy](https://github.com/anmarphy) | Data Scientist | Eastern (-5) | ![](https://avatars.githubusercontent.com/anmarphy?s=64) |
+| Kaiwen Zheng131 | [@kaiwen-zheng131](https://github.com/kaiwen-zheng131) | Data Scientist | Eastern (-5) | ![]() |
+| Eliza Osae-Kwapong | [@elizaosaekwapong](https://github.com/elizaosaekwapong)| Data Scientist | Eastern (-5) | ![](https://avatars.githubusercontent.com/elizaosaekwapong?s=64) |
